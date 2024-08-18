@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Garg</h1>
-<h3 align="center">A sophomore from Thapar Institute of Engineering and Technology,Patiala</h3>
+<h3 align="center">A sophomore at the Thapar Institute of Engineering and Technology, Patiala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teckhack76&label=Profile%20views&color=0e75b6&style=flat" alt="teckhack76" /> </p>
 
