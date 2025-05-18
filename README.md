@@ -89,7 +89,7 @@
 ### 📫 Reach Me
 
 - 📧 Email: **agarg20_be23@thapar.edu**
-- 🧠 Portfolio: *Coming Soon...*
+- 🧠 Portfolio: **https://teckhack76.github.io/Web3-Portfolio.github.io/#**
 
 ---
 
