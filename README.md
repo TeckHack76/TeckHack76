@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Garg" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 Sophomore at Thapar Institute of Engineering & Technology, Patiala</h3>
+<h3 align="center">🎓 Thapar Institute of Engineering & Technology, Patiala</h3>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%" />
